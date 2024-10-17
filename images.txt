@@ -3,3 +3,4 @@ opengrok/docker
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 kasmweb/nginx:1.25.3
+apache/kafka:3.8.0

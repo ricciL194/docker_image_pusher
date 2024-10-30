@@ -7,3 +7,4 @@ apache/kafka:3.8.0
 confluentinc/cp-zookeeper:7.3.0
 confluentinc/cp-kafka:7.3.0
 milvusdb/milvus:0.8.0-cpu-d041520-464400
+jupyter/scipy-notebook:x86_64-ubuntu-22.04

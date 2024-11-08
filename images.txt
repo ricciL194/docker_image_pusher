@@ -11,3 +11,4 @@ jupyter/scipy-notebook:x86_64-ubuntu-22.04
 mrlyc/dm-poetry:20240206
 bitnami/rabbitmq:latest
 bitnami/redis:latest
+bitnami/mysql:5.7.43

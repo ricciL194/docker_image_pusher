@@ -14,3 +14,4 @@ bitnami/redis:latest
 bitnami/mysql:5.7.43
 elasticsearch:7.2.0
 grafana/grafana:6.5.2
+prom/prometheus:v2.14.0

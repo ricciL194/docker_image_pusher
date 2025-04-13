@@ -17,3 +17,4 @@ grafana/grafana:6.5.2
 prom/prometheus:v2.14.0
 mrlyc/devcontainer-python:1683735498
 jenkinsci/blueocean
+langgenius/dify-web:1.2.0

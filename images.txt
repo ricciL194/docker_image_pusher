@@ -46,3 +46,5 @@ opengrok/docker
 # jupyter/datascience-notebook:x86_64-python-3.11.6
 # jupyter/datascience-notebook:lab-4.0.7
 bitnami/python:3.13.3
+postgres:14.17
+

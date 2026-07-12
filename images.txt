@@ -20,8 +20,6 @@ opengrok/docker
 # nginx:latest
 # container-registry.oracle.com/database/free:latest
 # docker.elastic.co/elasticsearch/elasticsearch:8.14.3
-postgres:14.17
-percona/percona-toolkit:latest
-dhi.io/python:3.11-alpine3.23-dev
+# dhi.io/python:3.11-alpine3.23-dev
 
 

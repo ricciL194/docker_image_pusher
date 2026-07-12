@@ -3,22 +3,14 @@ opengrok/docker
 # 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 # kasmweb/nginx:1.25.3
-# apache/kafka:3.8.0
-# confluentinc/cp-zookeeper:7.3.0
-# confluentinc/cp-kafka:7.3.0
-# milvusdb/milvus:0.8.0-cpu-d041520-464400
-# jupyter/scipy-notebook:x86_64-ubuntu-22.04
-# mrlyc/dm-poetry:20240206
 # bitnami/rabbitmq:latest
 # bitnami/redis:latest
 # bitnami/mysql:5.7.43
 # elasticsearch:7.2.0
 # grafana/grafana:6.5.2
 # prom/prometheus:v2.14.0
-# postgres:15-alpine
 # redis:6-alpine
 # nginx:latest
-# container-registry.oracle.com/database/free:latest
 # docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 # dhi.io/python:3.11-alpine3.23-dev
 
